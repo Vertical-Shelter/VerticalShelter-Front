@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "disable",
+    "cmake.sourceDirectory": "/Users/ludovicmaitre/Documents/Vertical-Setting/app/linux"
+}
